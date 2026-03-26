@@ -65,7 +65,9 @@ The dashboard provides insights such as:
 ## Author
 
 MD Nur Hossain Joy
+
 Former Finance Executive-MetLife Bangladesh
+
 BBA & MBA in Finance, IBA, University of Rajshahi
 
 
