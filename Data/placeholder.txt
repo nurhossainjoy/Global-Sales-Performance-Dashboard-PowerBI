@@ -1,0 +1,2 @@
+The actual dataset used in the Power BI dashboard is not included in this repository.
+You may replace this file with the dataset if needed.
